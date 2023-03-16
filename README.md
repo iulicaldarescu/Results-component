@@ -1,2 +1,2 @@
 # Results-component
-My first project using only HTML and CSS
+My first little project using only HTML and CSS
